@@ -1,0 +1,12 @@
+name: Olympic
+title: Olympic
+username:
+account: heqian
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 661619
+bundleId: 1844701
+url: https://heqian.shinyapps.io/Olympic/
+when: 1548804507.51884
+asMultiple: FALSE
+asStatic: FALSE
